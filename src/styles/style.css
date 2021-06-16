@@ -13,9 +13,17 @@
 }
 
 .header {
-    padding-top: 5rem;
+    padding-top: 3rem;
     text-align: center;
     font-size: 60px;
+    font-weight: 200;
+    
+}
+
+.sub-header {
+    /* padding-top: 1rem; */
+    text-align: center;
+    font-size: 30px;
     font-weight: 200;
     
 }
@@ -28,13 +36,6 @@ a * {
 a, a:visited, a:hover, a:active {
     color: inherit;
   }
-
-.download-content {
-   padding-top: 3rem;
-   text-align: center;
-   font-size: 12px;
-
-}
 
 /* .communication {
 
@@ -74,8 +75,8 @@ p {
         width: 80%;
     }
     .image {
-        width: 30%;
-        height: 30%;
+        width: 35%;
+        height: 35%;
     }
     .header{
         font-size: 40px;
